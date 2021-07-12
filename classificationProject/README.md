@@ -1,5 +1,5 @@
 # Project: University Student Admission Prediction Project 
-The goal of this project is to learn the implementation of classification Machine Learning algorithms in python. For this particular case, a simple project predicting the admission of a student in an american or canadian University is used.
+The goal of this project is to learn the implementation of classification Machine Learning algorithms in python. For this particular case, a simple project predicting the admission of a student in an University is used.
 
 List of Algorithms:
 - Logistic Regression.
@@ -10,6 +10,7 @@ List of Algorithms:
 - Support Vector Machines.
 - Naive Bayes.
 - Linear Discriminant Analysis.
+
 Hyperparameter tunning and Ensemble techniques like Passing, Pagging and K-fold Cross Validation are also used.
 
 Dataset: https://www.kaggle.com/adityadeshpande23/admissionpredictioncsv
