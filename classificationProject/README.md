@@ -1,5 +1,5 @@
-# Project: University Student Admission Prediction Project 
-The goal of this project is to learn the implementation of classification Machine Learning algorithms in python. For this particular case, a simple project predicting the admission of a student in an University is used.
+# Project: Diabetes Prediction Project 
+The goal of this project is to learn the implementation of classification Machine Learning algorithms in python. For this particular case, a simple project is used: it predicts whether a person is diabetic or not.
 
 List of Algorithms:
 - Logistic Regression.
@@ -27,15 +27,17 @@ Dataset: https://www.kaggle.com/adityadeshpande23/admissionpredictioncsv
 
 
 ## General Information
-The goal of this project is to predict the admission of a student in an University taking into account the following points:
-- General test score (GRE).
-- Test of English as a Foreign Languge score (TOEFL).
-- University rating.
-- Statement of Purpose (SOP).
-- Letter of Recommendation (LOR). 
-- Cumulative Grade Point Average (CGPA).
+The goal of this project is to predict whether a person is diabetic or not based on the following points:
+- Number of pregnancies.
+- Glucose boold level.
+- Boold Pressure.
+- Skin Thickness.
+- Insulin blood level.
+- The Body Mass Index (BMI).
+- The Diabetes Pedigree Function.
+- Age
 
-Purpose: Practice the implementation of the Linear Regression Machine Learning Model till deployment (Heroku).
+Purpose: Practice the implementation of different classification Machine Learning Models till deployment (Heroku).
 
 ## Technologies Used
 - Python 3.8.5
