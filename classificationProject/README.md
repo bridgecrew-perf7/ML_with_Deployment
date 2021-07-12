@@ -35,7 +35,7 @@ The goal of this project is to predict the admission of a student in an Universi
 - Letter of Recommendation (LOR). 
 - Cumulative Grade Point Average (CGPA).
 
-Purpose: Practice the implementation of the Linear Regression Machine Learning Model till deployment (Google Cloud).
+Purpose: Practice the implementation of the Linear Regression Machine Learning Model till deployment (Heroku).
 
 ## Technologies Used
 - Python 3.8.5
