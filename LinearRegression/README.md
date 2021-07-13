@@ -65,7 +65,7 @@ Project is: _complete_
 
 
 ## Room for Improvement
-The Linear Regression is used for learning purposes but for sure the model can be tested and improved with other Machine Learning Algorithms.
+The Regression algorithms are used for learning purposes but for sure the model can be tested and improved with other algorithms and ensemble techniques.
 
 ## Contact
 Created by [Xavier Nuel Gavaldà](xaviernuelgav@gmail.com) - feel free to contact me!
