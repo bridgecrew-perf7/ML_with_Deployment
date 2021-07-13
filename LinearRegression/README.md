@@ -1,7 +1,15 @@
 # Project: University Student Admission Prediction
-> The goal of this project is to predict the admission of a student in an University.
+The goal of this project is to predict the admission of a student in an University using the following regression Machine Learning techniques:
+- Linear Regression.
+- Lasso.
+- Ridge.
+- Elastic Net.
+- Decision Tree.
+- Random Forest.
+- K-nearest-neighbor.
+- Support Vector Machines
 
-> Dataset: https://www.kaggle.com/adityadeshpande23/admissionpredictioncsv
+Dataset: https://www.kaggle.com/adityadeshpande23/admissionpredictioncsv
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -23,7 +31,7 @@ The goal of this project is to predict the admission of a student in an Universi
 - Letter of Recommendation (LOR). 
 - Cumulative Grade Point Average (CGPA).
 
-Purpose: Practice the implementation of the Linear Regression Machine Learning Model till deployment (Google Cloud).
+Purpose: Practice the implementation of different regression Machine Learning models till deployment (Google Cloud).
 
 ## Technologies Used
 - Python 3.7.7
@@ -65,7 +73,7 @@ Project is: _complete_
 
 
 ## Room for Improvement
-The Regression algorithms are used for learning purposes but for sure the model can be tested and improved with other algorithms and ensemble techniques.
+The regression algorithms are used for learning purposes but for sure the model can be tested and improved with other algorithms and ensemble techniques.
 
 ## Contact
 Created by [Xavier Nuel Gavaldà](xaviernuelgav@gmail.com) - feel free to contact me!
