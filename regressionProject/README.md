@@ -6,8 +6,8 @@
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
+* [Machine Learning Algorithms Used](#ML-algorithms)
 * [Setup](#setup)
-* [Usage](#usage)
 * [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
 * [Contact](#contact)
@@ -24,6 +24,16 @@ The goal of this project is to predict the admission of a student in an Universi
 - Cumulative Grade Point Average (CGPA).
 
 Purpose: Practice the implementation of the Linear Regression Machine Learning Model till deployment (Google Cloud).
+
+Machine Learning Algorithms Used:
+- Linear Regression
+- Lasso
+- Ridge
+- ElasticNet
+- Decision tree
+- Random Forest
+- K-Nearest Neighbors
+- Supported Vector Machines
 
 ## Technologies Used
 - Python 3.7.7
