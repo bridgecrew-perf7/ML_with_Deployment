@@ -25,7 +25,7 @@ The goal of this project is to predict the admission of a student in an Universi
 
 Purpose: Practice the implementation of the Linear Regression Machine Learning Model till deployment (Google Cloud).
 
-Machine Learning Algorithms Used:
+## Machine Learning Algorithms Used:
 - Linear Regression
 - Lasso
 - Ridge
