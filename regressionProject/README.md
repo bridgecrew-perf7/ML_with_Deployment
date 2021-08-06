@@ -75,7 +75,7 @@ Project is: _complete_
 
 
 ## Room for Improvement
-The Linear Regression is used for learning purposes but for sure the model can be tested and improved with other Machine Learning Algorithms.
+Regularization and Hyperparameters Tunning are used to optimize the algorithms performance. But there are probably other suitable techniques to improve even more the performance. Any comment is welcome!
 
 ## Contact
 Created by [Xavier Nuel Gavaldà](xaviernuelgav@gmail.com) - feel free to contact me!
