@@ -1,5 +1,5 @@
 # Project: Diabetes Prediction Project 
-The goal of this project is to predict whether a person is diabetic or not.
+The goal of this project is to predict whether a person is diabetic or not taking into account the following medical parameters:
 
 List of Algorithms:
 - Logistic Regression.
