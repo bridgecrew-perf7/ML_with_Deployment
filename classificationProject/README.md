@@ -1,5 +1,5 @@
 # Project: Diabetes Prediction Project 
-The goal of this project is to learn the implementation of classification Machine Learning algorithms in python. For this particular case, a simple project is used: it predicts whether a person is diabetic or not.
+The goal of this project is to predict whether a person is diabetic or not.
 
 List of Algorithms:
 - Logistic Regression.
