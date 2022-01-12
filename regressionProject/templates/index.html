@@ -2,7 +2,7 @@
 
 {% block head %}
 
-<title>Search Page</title>
+<title>Test Page</title>
 <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
 {% endblock %}
 
@@ -18,10 +18,11 @@
             <input type="number" name="sop" id="sop" placeholder="SOP Score">
             <input type="number" name="lor" id="lor" placeholder="LOR Score">
             <input type="number" name="cgpa" id="cgpa"placeholder="CGPA" step="any">
-            <select name="research" id="research">
-  <option value="yes">Yes</option>
-  <option value="no">No</option>
-</select>
+
+            <select name="research" id="Research">
+                <option value="yes">Yes</option>
+                <option value="no">No</option>
+            </select>
             <input type="submit" value="Predict">
         </form>
     </div>

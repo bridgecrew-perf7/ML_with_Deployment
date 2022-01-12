@@ -33,8 +33,7 @@ def index():
             scaler_function = 'standardScalar.pickle'
             scaler = pickle.load(open(scaler_function, 'rb'))
             # loading the model file from the storage
-            #filename = 'finalized_model.pickle'
-            filename = 'classificationModel.sav'
+            filename = 'finalized_model.pickle'
             loaded_model = pickle.load(open(filename, 'rb'))  
             # predictions using the loaded model file
             scaled_data = scaler.transform([[gre_score,toefl_score,university_rating,sop,lor,cgpa,research]])
