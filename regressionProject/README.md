@@ -1,7 +1,4 @@
-# Project: University Student Admission Prediction
-> The goal of this project is to predict the admission of a student in an University.
-
-> Dataset: https://www.kaggle.com/adityadeshpande23/admissionpredictioncsv
+# University Student Admission Prediction Project
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -23,6 +20,8 @@ The goal of this project is to predict the admission of a student in an Universi
 - Letter of Recommendation (LOR). 
 - Cumulative Grade Point Average (CGPA).
 - Whether the student has experience in research or not.
+
+Dataset: https://www.kaggle.com/adityadeshpande23/admissionpredictioncsv
 
 Purpose: Practice the implementation of different Regression Machine Learning models till deployment (Heroku).
 
