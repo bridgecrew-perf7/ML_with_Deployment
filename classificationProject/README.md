@@ -1,4 +1,17 @@
-# Project: Diabetes Prediction Project 
+# Diabetes Prediction Project 
+
+## Table of Contents
+* [General Info](#general-information)
+* [Technologies Used](#technologies-used)
+* [Setup](#setup)
+* [Usage](#usage)
+* [Project Status](#project-status)
+* [Room for Improvement](#room-for-improvement)
+* [Contact](#contact)
+<!-- * [License](#license) -->
+
+
+## General Information
 The goal of this project is to predict whether a person is diabetic or not taking into account the following medical parameters:
 
 List of Algorithms:
@@ -14,30 +27,6 @@ List of Algorithms:
 Hyperparameter tunning and Ensemble techniques like Passing, Pagging and K-fold Cross Validation are also used.
 
 Dataset: https://www.kaggle.com/adityadeshpande23/admissionpredictioncsv
-
-## Table of Contents
-* [General Info](#general-information)
-* [Technologies Used](#technologies-used)
-* [Setup](#setup)
-* [Usage](#usage)
-* [Project Status](#project-status)
-* [Room for Improvement](#room-for-improvement)
-* [Contact](#contact)
-<!-- * [License](#license) -->
-
-
-## General Information
-The goal of this project is to predict whether a person is diabetic or not based on the following points:
-- Number of pregnancies.
-- Glucose boold level.
-- Boold Pressure.
-- Skin Thickness.
-- Insulin blood level.
-- The Body Mass Index (BMI).
-- The Diabetes Pedigree Function.
-- Age
-
-Purpose: Practice the implementation of different classification Machine Learning Models till deployment (Heroku).
 
 ## Technologies Used
 - Python 3.8.5
