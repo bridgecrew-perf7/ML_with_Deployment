@@ -1,10 +1,10 @@
 # University Student Admission Prediction Project
 
 ## Table of Contents
-* [General Info](#general-information)
+* [General Information](#general-information)
 * [Technologies Used](#technologies-used)
 * [Setup](#setup)
-* [Deployment](#usage)
+* [Deployment](#deployment)
 * [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
 * [Contact](#contact)
