@@ -1,10 +1,10 @@
 # Diabetes Prediction Project 
 
 ## Table of Contents
-* [General Info](#general-information)
+* [General Information](#general-information)
 * [Technologies Used](#technologies-used)
 * [Setup](#setup)
-* [Usage](#usage)
+* [Deployment](#deployment)
 * [Project Status](#project-status)
 * [Room for Improvement](#room-for-improvement)
 * [Contact](#contact)
@@ -71,7 +71,13 @@ To install the requiriments.txt file in your environment:
 2. activate your virtualenv.
 3. run the command "pip install -r requirements.txt".
 
-To deploy the files in Heroku follow the deployment rules
+To deploy the files in Heroku follow the deployment rules.
+
+## Deployment
+Project deployed on Heroku: https://diabetes-prediciton-2022.herokuapp.com/
+
+![preview img](deploymentShot.png)
+
 
 ## Project Status
 Project is: _complete_ 
