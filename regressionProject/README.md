@@ -72,7 +72,7 @@ To deploy the files into Heroku:
 ## Deployment
 Project deployed on Heroku: https://university-admission-2022.herokuapp.com
 
-![preview img](deploymentShot.png)
+![preview img](deploymentShoot.png)
 
 ## Project Status
 Project is: _complete_ 
