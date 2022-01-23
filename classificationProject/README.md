@@ -76,7 +76,7 @@ To deploy the files in Heroku follow the deployment rules.
 ## Deployment
 Project deployed on Heroku: https://diabetes-prediciton-2022.herokuapp.com/
 
-![preview img](deploymentShot.png)
+![preview img](classificationShot.png)
 
 
 ## Project Status
